@@ -1,9 +1,9 @@
 
-pubic/doc/*
-pubic/upload/*
+pubic/doc/
+pubic/upload/
 test
 vendor
- 
+
 *~
 *#
 .DS_STORE
